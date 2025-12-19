@@ -22,6 +22,7 @@ Before we get into it, let's go back over all the terminology we've covered thus
 - **Unsupervised Learning** — A machine learning approach where algorithms identify patterns in data without predefined labels
 - **K-Means Clustering** — An algorithm that groups similar data points into $K$ number of clusters. It's used for classification problems. In our case, we'll be segmenting customers together into groups.
 - **Elbow Method** — A technique for determining the optimal number of clusters in K-means
+
 # The Heart of the Problem
 We have a dataset from Framingham, Massachusetts, where they've been doing on ongoing study with the residents. This data and a detailed analysis were [published on the CDC's website](https://www.cdc.gov/pcd/issues/2014/14_0045.htm). We can download the [raw dataset from Kaggle](https://www.kaggle.com/datasets/mamta1999/cardiovascular-risk-data). We'll be writing a short report on our findings with this Case Study, so that we have something we can present to employers as a comprehensive Data Science project.
 ### Getting the Most out of This Case Study
